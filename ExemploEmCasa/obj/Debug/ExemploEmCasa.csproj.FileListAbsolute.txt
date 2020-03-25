@@ -1,0 +1,6 @@
+C:\Users\danie\source\repos\ExemploEmCasa\ExemploEmCasa\obj\Debug\ExemploEmCasa.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\ExemploEmCasa\ExemploEmCasa\bin\Debug\ExemploEmCasa.exe.config
+C:\Users\danie\source\repos\ExemploEmCasa\ExemploEmCasa\bin\Debug\ExemploEmCasa.exe
+C:\Users\danie\source\repos\ExemploEmCasa\ExemploEmCasa\bin\Debug\ExemploEmCasa.pdb
+C:\Users\danie\source\repos\ExemploEmCasa\ExemploEmCasa\obj\Debug\ExemploEmCasa.exe
+C:\Users\danie\source\repos\ExemploEmCasa\ExemploEmCasa\obj\Debug\ExemploEmCasa.pdb
